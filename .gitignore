@@ -6,6 +6,7 @@ data/
 *.parquet
 *.html
 *.csv
+*.pkl
 
 .venv
 venv
